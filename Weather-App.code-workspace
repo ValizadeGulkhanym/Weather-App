@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "Weather-App",
+		"path": "."
+	},
+	{
+		"name": "images",
+		"path": "../weather forecast/images"
+	}
+],
+  "settings": {}
+}
