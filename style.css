@@ -22,7 +22,7 @@ h3 {
   position: relative;
   transition: 500ms;
   opacity: 1;
-  background-image: url(./images/day/rainbow.webp);
+  background-image: url(./images/day/clouds.jpg);
 }
 .weather-app::before {
   content: "";
@@ -94,14 +94,12 @@ city-time h1 {
   padding: 1.5em;
   border: none;
   outline: none;
-  background: #f7057e;
+  background: #e77e27;
   cursor: pointer;
   font-size: 1.2em;
   transition: 0.45s;
 }
-.submit img {
-  color: #fff !important;
-}
+
 .submit:hover {
   background: #fff !important;
 }
